@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32531.469
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppDatePickerRepro", "WpfAppDatePickerRepro\WpfAppDatePickerRepro.csproj", "{BA9FA501-DD30-4205-9D80-46B2D521A996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9FA501-DD30-4205-9D80-46B2D521A996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9FA501-DD30-4205-9D80-46B2D521A996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9FA501-DD30-4205-9D80-46B2D521A996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9FA501-DD30-4205-9D80-46B2D521A996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED0D4CE-8805-4B3C-B175-A507DA45AE3C}
+	EndGlobalSection
+EndGlobal
